@@ -1,6 +1,6 @@
 # Sample Node.js application
 
-This application defines a simple Node.js application.
+This application defines a simple Node.js application using the 'express' framework.
 
 Live website: https://sample-node-express.scalingo.io
 
