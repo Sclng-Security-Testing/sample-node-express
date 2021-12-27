@@ -1,4 +1,3 @@
-dependencies = ["asgard-backend"]
 description = "Application source guard"
 destination_server = ["scalingo-platform"]
 flags = ["cli", "tools"]
