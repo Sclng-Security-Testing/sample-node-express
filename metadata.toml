@@ -1,8 +1,0 @@
-dependencies = ["asgard-backend"]
-description = "Application source guard"
-destination_server = "scalingo-platform"
-flags = ["cli", "tools"]
-languages = ["go"]
-owner = "Siham Aissaoui"
-team = "Infosec"
-version = "0.1"
