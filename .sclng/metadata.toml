@@ -1,5 +1,5 @@
 dependencies = ["asgard-test", "asgard-backend"]
-description = ""
+description = "A description"
 destination_server = ["app-hosting-node", "database-hosting-node", "scalingo-platform"]
 flags = ["deployed-by-chef", "devops", "global"]
 languages = ["ansible", "dockerfile"]
