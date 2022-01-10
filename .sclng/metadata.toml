@@ -1,8 +1,8 @@
-dependencies = ["asgard-test", "asgard-backend"]
-description = ""
-destination_server = ["app-hosting-node", "database-hosting-node", "scalingo-platform"]
-flags = ["deployed-by-chef", "devops", "global"]
-languages = ["ansible", "dockerfile", "go"]
-owner = "etienne@scalingo.com"
-team = "IST"
+dependencies = ["asgard-cli"]
+description = "This is a description"
+destination_server = ["database-hosting-node", "front", "internal"]
+flags = ["deployed-by-chef", "lib", "sdk"]
+languages = ["ansible"]
+owner = "siham@scalingo.com"
+team = "Infosec"
 version = "0.1"
