@@ -1,4 +1,4 @@
-dependencies = ["asgard-cli"]
+dependencies = ["asgard-cli"
 description = "This is a description"
 destination_server = ["database-hosting-node", "front", "internal"]
 flags = ["deployed-by-chef", "lib", "sdk"]
